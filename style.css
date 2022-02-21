@@ -1087,7 +1087,7 @@ text-transform: uppercase;
         overflow: hidden;
     }
     .header__top {
-        padding: 18px 0px;
+        padding: 0px;
     }
     .player__icon {
         margin-right: 22px;
