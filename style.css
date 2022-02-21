@@ -317,7 +317,7 @@ body {
     border-bottom:  1px solid #FFFFFF;
     padding-bottom: 25px;
     margin-bottom: 25px;
-    background-image: url('/img/quote.png');
+    background-image: url('img/quote.png');
     background-repeat: no-repeat;
     background-position: 0 0;
 
@@ -665,7 +665,7 @@ margin-right: 20px;
     
     left: -80px;
     /* text-align: center; */
-    background: url(/img/Arrow.png) center  no-repeat;
+    background: url(img/Arrow.png) center  no-repeat;
 } 
 
 .slider__items .slick-arrow.slick-prev:hover {
@@ -682,7 +682,7 @@ margin-right: 20px;
 .slider__items .slick-arrow.slick-next {
     right: -80px;
     /* text-align: center; */
-    background: url(/img/ArrowNext.png) center no-repeat;
+    background: url(img/ArrowNext.png) center no-repeat;
 } 
 
 
@@ -1005,6 +1005,13 @@ text-transform: uppercase;
     }
     .header__cards {
         margin-bottom: 200px;
+    }
+
+    .quote__container {
+        margin-bottom: 80px;
+    }
+    .footer__links {
+        margin-top: 15px;
     }
 }
 
